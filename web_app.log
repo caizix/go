@@ -1,0 +1,3 @@
+{"level":"\u001b[35mDEBUG\u001b[0m","time":"2022-07-10T20:52:49.722+0800","caller":"webapp_demo/main.go:36","msg":"logger init success!!!!"}
+{"level":"\u001b[34mINFO\u001b[0m","time":"2022-07-10T20:53:01.306+0800","caller":"webapp_demo/main.go:67","msg":"shutdown server ...."}
+{"level":"\u001b[34mINFO\u001b[0m","time":"2022-07-10T20:53:01.309+0800","caller":"webapp_demo/main.go:74","msg":"server exiting"}
